@@ -23,7 +23,6 @@ branca==0.7.1
 brotlipy==0.7.0
 cachetools==5.2.0
 catboost==1.2.5
-cffi @ file:///C:/ci_310/cffi_1642682485096/work
 chardet==4.0.0
 charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
 click @ file:///C:/b/abs_f9ihnt72pu/croot/click_1698129847492/work
