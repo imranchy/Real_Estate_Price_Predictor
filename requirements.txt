@@ -1,3 +1,4 @@
+python-3.9.10
 absl-py==1.2.0
 alabaster==0.7.12
 albumentations==1.2.1
@@ -22,7 +23,6 @@ branca==0.7.1
 brotlipy==0.7.0
 cachetools==5.2.0
 catboost==1.2.5
-certifi @ file:///C:/b/abs_55jxithrm3/croot/certifi_1717618077850/work/certifi
 cffi @ file:///C:/ci_310/cffi_1642682485096/work
 chardet==4.0.0
 charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
