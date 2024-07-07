@@ -234,7 +234,6 @@ traitlets==5.2.1.post0
 typeguard==2.13.3
 typing_extensions==4.9.0
 ujson==5.3.0
-urllib3 @ file:///opt/conda/conda-bld/urllib3_1643638302206/work
 watchdog==4.0.1
 wcwidth==0.2.5
 webencodings==0.5.1
