@@ -2,4 +2,4 @@ dash
 pandas
 gunicorn
 joblib
-sklearn
+scikit-learn
