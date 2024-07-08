@@ -16,7 +16,6 @@ Latitude, and Longitude. For detailed analysis and additional insights, check ou
 ### Initial View of the Application
 ![sc1](https://github.com/imranchy/Real_Estate_Price_Predictor/assets/63488646/dcda4980-4f96-4432-ae60-9d2f82d556d7)
 
-
 ### User Inputs Filled with Example Data and Predicted Price
 ![sc2](https://github.com/imranchy/Real_Estate_Price_Predictor/assets/63488646/a9ad455e-81e4-4cf1-a45a-26d577d66fea)
 
@@ -48,6 +47,7 @@ Ensure you have Python, dash, joblib and pip installed on your machine.
   
 ## File Structure ##
 * app.py: Main file to run the Dash application.
+* Real estate.csv: Dataset used for the project.
 * label_encoder.pkl: Pretrained label encoder.
 * poly.pkl: Pretrained polynomial features transformer.
 * kmeans_model.pkl: Pretrained K-Means clustering model.
