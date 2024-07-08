@@ -2,7 +2,8 @@
 
 This Dash application predicts real estate prices based on user input for 
 Distance to the nearest Metro Station, Number of Convenience Stores nearby, 
-Latitude, and Longitude.
+Latitude, and Longitude. For detailed analysis and additional insights, check out the 
+[Jupyter Notebook](Real_Estate_Price_Prediction.ipynb).
 
 ## Features
 
@@ -22,7 +23,7 @@ Latitude, and Longitude.
 ### Error Handling in the App
 ![sc3](https://github.com/imranchy/Real_Estate_Price_Predictor/assets/63488646/25e3dca0-5856-446f-bd69-311188a75396)
 
-## How to Use
+## How to Run the Application
 
 1. **Clone the repository:**
    ```bash
@@ -37,3 +38,20 @@ Ensure you have Python, dash, joblib and pip installed on your machine.
    python app.py
 
 4. **Then copy the console link onto a web browser to run the application**.
+
+## Model Information ##
+* Label Encoder: Encodes categorical labels as numerical values.
+* Polynomial Features: Transforms input features into polynomial features.
+* K-Means Clustering: Groups data into clusters based on latitude and longitude.
+* Scaler: Standardizes features by removing the mean and scaling to unit variance.
+* Best Model: The trained model used to predict the house prices.
+  
+## File Structure ##
+* app.py: Main file to run the Dash application.
+* label_encoder.pkl: Pretrained label encoder.
+* poly.pkl: Pretrained polynomial features transformer.
+* kmeans_model.pkl: Pretrained K-Means clustering model.
+* cluster_model.pkl: Pretrained clustering model for density features.
+* best_model.pkl: Pretrained model for predicting house prices.
+* scaler.pkl: Pretrained scaler for standardizing features.
+* Real_Estate_Price_Predictor.ipynb: Jupyter notebook with additional analysis and insights.
