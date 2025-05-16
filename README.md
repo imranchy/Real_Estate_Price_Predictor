@@ -14,13 +14,9 @@ Latitude, and Longitude. For detailed analysis and additional insights, check ou
 ## Screenshots
 
 ### Initial View of the Application
-[Initial View](screenshots/initial_view.jpg)
+![Initial View](screenshots/initial_view.jpg)
 
 ### User Inputs Filled with Example Data and Predicted Price
-![sc2](https://github.com/imranchy/Real_Estate_Price_Predictor/assets/63488646/a9ad455e-81e4-4cf1-a45a-26d577d66fea)
-
-### Error Handling in the App
-![sc3](https://github.com/imranchy/Real_Estate_Price_Predictor/assets/63488646/25e3dca0-5856-446f-bd69-311188a75396)
 
 ## How to Run the Application
 
