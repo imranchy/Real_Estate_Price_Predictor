@@ -17,6 +17,7 @@ Latitude, and Longitude. For detailed analysis and additional insights, check ou
 ![Initial View](screenshots/initial_view.jpg)
 
 ### User Inputs Filled with Example Data and Predicted Price
+![Initial View](screenshots/prediction.jpg)
 
 ## How to Run the Application
 
